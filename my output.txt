@@ -1,0 +1,8 @@
+Add two integers: 15
+Add three integers: 30
+Add two doubles: 10.0
+Name: kalpesh, Age: 20
+Name: kalpesh, Age: 20
+Name: kalpesh, Age: 20
+Student s4 detail (reference to s2):
+Name: kalpesh, Age: 20
