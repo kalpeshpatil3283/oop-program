@@ -1,0 +1,7 @@
+x + y = 20
+x - y = 10
+x * y = 75
+x / y = 3
+x % y = 0
+Addition: 22
+Multiplication: 48
