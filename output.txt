@@ -1,0 +1,12 @@
+Equals? str1:false
+Uppercase str1:HELLO
+Square root of a:4.0
+a raised to b:28526.20085808741
+Max of a and b:16.0
+Min of a and b:3.7
+Random number (0-1):0.8568622901436684
+Random number (10-20):11.968207405952613
+Random number (1-100):46.577963216833844
+Ceil of b:4.0
+Floor of b:3.0
+Round of b:4
